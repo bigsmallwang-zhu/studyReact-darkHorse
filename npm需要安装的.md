@@ -34,10 +34,10 @@ npm run dev
 CSS样式表loader,
 `cnpm i style-loader css-loader  -D`
 sass:
-`cnpm i sass-loader node-sass -D`
+`cnpm i sass-loader node-sass sass -D`
 要求文件名是.scss，和css一样是大括号，.sass是缩进语法
 less
-`cnpm i less-loader  -D`
+`cnpm i less-loader less  -D`
 
 打包字体loader,需要依赖file-loader
 `cnpm i url-loader -D`

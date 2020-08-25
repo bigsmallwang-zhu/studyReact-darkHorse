@@ -1,5 +1,5 @@
 import React from 'react'
-import jQuery from'jquery/dist/jquery'
+// import jQuery from'jquery/dist/jquery'
 import bootcss from 'bootstrap/dist/css/bootstrap.css'
 import '@/style/less/demo.less'
 import '@/style/sass/demo.scss'
